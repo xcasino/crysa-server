@@ -1,0 +1,19 @@
+{
+  "name": "crysa-server",
+  "version": "1.0.0",
+  "description": "Crysa Game Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcasino/crysa-server.git"
+  },
+  "author": "Joshua Miller (xCasino)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xcasino/crysa-server/issues"
+  },
+  "homepage": "https://github.com/xcasino/crysa-server#readme"
+}
